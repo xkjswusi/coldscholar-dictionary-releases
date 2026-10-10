@@ -10,7 +10,7 @@ The app is also distributed through Google Play.
 
 ## About
 
-Visit [Coldscholar Studio](https://coldscholarstudio.org/apps/dictionary) for more information.
+Visit [Coldscholar Studio - Apps: Dictionary](https://coldscholarstudio.org/apps/dictionary) for more information.
 
 ## Licensing
 
